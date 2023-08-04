@@ -1,8 +1,3 @@
-
-
-## &#x1f4c8; Stats
-
-----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w0l6&layout=compact&theme=dark&show_icons=true)](https://github.com/Wolf-py)
 
 ----
