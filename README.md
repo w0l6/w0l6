@@ -29,13 +29,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,git,github,vscode" />
 </p>
 
----
-
-## 📫 Contact
-
-<p align="center">
-  Discord : w0l6  
-</p>
 
 ---
 
